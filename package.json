@@ -1,0 +1,29 @@
+{
+  "name": "Jest-CS-Testing",
+  "jest": {
+    "verbose": true
+  },
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/preset-env": "^7.11.5",
+    "babel-jest": "^26.3.0",
+    "jest": "^26.4.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matt-GitHub/Jest-CS-Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matt-GitHub/Jest-CS-Testing/issues"
+  },
+  "homepage": "https://github.com/Matt-GitHub/Jest-CS-Testing#readme"
+}
